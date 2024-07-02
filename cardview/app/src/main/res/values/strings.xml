@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cardview</string>
+    <string name="w">Web-View</string>
+    <string name="y">Youtube</string>
+</resources>

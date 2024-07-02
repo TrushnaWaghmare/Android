@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">spinner</string>
+   <string-array name="conversion">
+       <item>Decimal</item>
+       <item>Binary</item>
+       <item>Octal</item>
+       <item>Hexadecimal</item>
+   </string-array>
+    <string name="s">Submit</string>
+</resources>

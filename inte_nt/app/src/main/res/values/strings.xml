@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">inte_nt</string>
+    <string name="a">Open gallery</string>
+    <string name="b">Start camera</string>
+    <string name="c">Detect</string>
+    <string name="d">Precaution</string>
+</resources>

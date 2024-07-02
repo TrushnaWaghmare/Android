@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Splashscreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Splashscreen" parent="Base.Theme.Splashscreen" />
+
+    <style name="Theme.Splashscreen." parent="Base.Theme.Splashscreen"/>
+    <style name="Theme.App.Splashscreen..Splashscreen." parent="Theme.Splashscreen.">
+        <item name="windowSplashScreenBackground">@color/green</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/savetree</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.Splashscreen</item>
+</style>
+
+
+</resources>
+

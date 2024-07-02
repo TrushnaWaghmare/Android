@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "629226552910",
+    "project_id": "music-player-ebac6",
+    "storage_bucket": "music-player-ebac6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629226552910:android:a1e7820f188081b817cd1f",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RZjF7KJYGC6Icrd7IKHjOF-_7qhzV8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629226552910:android:75414d9c0e5787e317cd1f",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-RZjF7KJYGC6Icrd7IKHjOF-_7qhzV8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216418770139",
+    "project_id": "music-player-ae0ae",
+    "storage_bucket": "music-player-ae0ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216418770139:android:29dde54b33a81caba400fe",
+        "android_client_info": {
+          "package_name": "com.example.tunesync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHy6oGhZpRLgnCooQP70nOREOOuB89f6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
